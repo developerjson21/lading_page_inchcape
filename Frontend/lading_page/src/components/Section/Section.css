@@ -1,0 +1,17 @@
+.div-section-global{
+    display:flex;
+    flex-direction: row;
+    width: 1434px;
+    height: 646.4px;
+}
+
+.div-section1{
+    width: 50%;
+    height: 646.4px;
+}
+.div-section2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 100%;
+}
+

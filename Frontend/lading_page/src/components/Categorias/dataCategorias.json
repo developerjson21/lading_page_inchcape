@@ -1,0 +1,46 @@
+
+    [{
+        "name": "Ranger",
+        "description": "Strating Price",
+        "price": "₱ 1,155,000",
+        "urlImg": "./Productos/ranger-img",
+        "category": "MOST POPULAR"
+    },
+    {
+        "name": "Terrytory",
+        "description": "Strating Price",
+        "price": "₱ 1,277,000",
+        "urlImg": "./Productos/territory-img",
+        "category": "MOST POPULAR"
+    },
+    {
+        "name": "Everest",
+        "description": "Strating Price",
+        "price": "₱ 1,738,000",
+        "urlImg": "./Productos/everest-img",
+        "category": "MOST POPULAR"
+    },
+    {
+        "name": "Terrytory",
+        "description": "Strating Price",
+        "price": "₱ 1,277,000",
+        "urlImg": "./Productos/territory-img",
+        "category": "Suvs"
+    },
+    {
+        "name": "Everest",
+        "description": "Strating Price",
+        "price": "₱ 1,738,000",
+        "urlImg": "./Productos/everest-img",
+        "category": "Suvs"
+    },
+    {
+        "name": "Explorer",
+        "description": "Strating Price",
+        "price": "₱ 2,998,000",
+        "urlImg": "./Productos/explorer-img",
+        "category": "Suvs"
+        
+
+    }
+]
